@@ -33,6 +33,9 @@ It communicates directly with a **C++ backend server** via **TCP sockets** for s
   - View and search topics
   - Edit content (only if authorized)
   - Send and receive messages (e.g., authorization requests)
+  - update topics
+  - check authrizations
+  - look up at your own topics
 
 ---
 
